@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LangtonsAnt", "LangtonsAnt\LangtonsAnt.csproj", "{94F984EA-9C06-466B-AA2F-C520CEB2B9FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LangtonsAnt.Tests", "LangtonsAnt.Tests\LangtonsAnt.Tests.csproj", "{F6BF3786-4137-4E23-B947-25F2F938DFB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94F984EA-9C06-466B-AA2F-C520CEB2B9FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94F984EA-9C06-466B-AA2F-C520CEB2B9FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94F984EA-9C06-466B-AA2F-C520CEB2B9FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94F984EA-9C06-466B-AA2F-C520CEB2B9FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6BF3786-4137-4E23-B947-25F2F938DFB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6BF3786-4137-4E23-B947-25F2F938DFB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6BF3786-4137-4E23-B947-25F2F938DFB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6BF3786-4137-4E23-B947-25F2F938DFB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
